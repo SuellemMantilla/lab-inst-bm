@@ -31,9 +31,5 @@ Repositorio oficial para almacenar y gestionar el código fuente, scripts de pro
 .
 ├── lab-01/                   # Laboratorio 1: Verificación de etapas iniciales
 ├── lab-02/                   # Laboratorio 2: Amplificador de Instrumentación y Acondicionamiento
-│   ├── src/                  # Código fuente (ej. Arduino / C++)
-│   └── docs/                 # Esquemáticos y capturas
-├── lab-03/                   # Experiencias futuras...
-├── scripts/                  # Scripts de procesamiento de datos (Python, MATLAB, etc.)
 ├── README.md                 # Descripción general del repositorio
-└── .gitignore                # Archivos ignorados por Git
+└── .gitignore                
